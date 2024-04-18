@@ -39,9 +39,9 @@ app.set("view engine", "ejs");
 ## Express module and EJS templates
 - I followed these steps:
 
->a) First, ensure to create a views and folders in my project directory.
->b) Create a index.ejs file inside the views folder.
->c) Once app.js was set up with code, and Express application was running, pushed all the code to git hub. 
+>a) First, ensure to create views and folders in my project directory.<br>
+>b) Create an index.ejs file inside the views folder.<br>
+>c) Once app.js was set up with code and the Express application was running, pushed all the code to the git hub. 
 
 ## License
 
