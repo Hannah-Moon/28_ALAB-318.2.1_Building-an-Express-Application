@@ -8,11 +8,15 @@
 
 ## Introduction
 
-Nacha, the national clearinghouse overseeing electronic money movement, reported a 4.8% increase in the volume of transactions through the ACH Network in the past year, reaching 31.5 billion payments compared to 2022. The total value of these transactions also rose by 4.4% to $80.1 trillion, as stated in a press release from Nacha in 2023.<br>
+NACHA, the national clearinghouse overseeing electronic money movement, reported a 4.8% increase in the volume of transactions through the ACH Network in the past year, reaching 31.5 billion payments compared to 2022. The total value of these transactions also rose by 4.4% to $80.1 trillion, as stated in a press release from NACHA in 2023.<br>
 
 With the availability of Same Day ACH, which facilitated the transfer of $1.2 trillion in the first half of 2023, the modern ACH Network has become increasingly prominent in B2B payments. However, despite its growing popularity, there remain hurdles for small and medium-sized companies, particularly due to the lack of their own network payment systems.<br>
 
 To address this issue, a proposed solution is to enable small businesses to download the Nacha file and upload their own files for ACH transactions. This would help reduce barriers to entry and participation in the ACH Network, making it more accessible to businesses of varying sizes.<br>
+
+<img width="700" alt="image" src="https://www.paycron.com/wp-content/uploads/2022/06/284833778_3415747612045132_5835267628500053816_n.jpg">
+<p>- Image credit: www.paycron.com </p>
+
 
 ## Objectives
 - Create an Express application.
