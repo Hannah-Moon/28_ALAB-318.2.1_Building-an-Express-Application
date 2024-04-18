@@ -12,7 +12,7 @@ NACHA, the national clearinghouse overseeing electronic money movement, reported
 
 With the availability of Same Day ACH, which facilitated the transfer of $1.2 trillion in the first half of 2023, the modern ACH Network has become increasingly prominent in B2B payments. However, despite its growing popularity, there remain hurdles for small and medium-sized companies, particularly due to the lack of their own network payment systems.<br>
 
-To address this issue, a proposed solution is to enable small businesses to download the Nacha file and upload their own files for ACH transactions. This would help reduce barriers to entry and participation in the ACH Network, making it more accessible to businesses of varying sizes.<br>
+To address this issue, a proposed solution is to enable small businesses to download the NACHA file and upload their own files for ACH transactions. This would help reduce barriers to entry and participation in the ACH Network, making it more accessible to businesses of varying sizes.<br>
 
 <img width="700" alt="image" src="https://www.paycron.com/wp-content/uploads/2022/06/284833778_3415747612045132_5835267628500053816_n.jpg">
 <p>- Image credit: www.paycron.com </p>
