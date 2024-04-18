@@ -7,7 +7,12 @@
 
 
 ## Introduction
-This lab is intended to give you time to practice what you learned, while also researching and implementing new concepts.
+
+Nacha, the national clearinghouse overseeing electronic money movement, reported a 4.8% increase in the volume of transactions through the ACH Network in the past year, reaching 31.5 billion payments compared to 2022. The total value of these transactions also rose by 4.4% to $80.1 trillion, as stated in a press release from Nacha on Wednesday.<br>
+
+With the availability of Same Day ACH, which facilitated the transfer of $1.2 trillion in the first half of 2023, the modern ACH Network has become increasingly prominent in B2B payments. However, despite its growing popularity, there remain hurdles for small and medium-sized companies, particularly due to the lack of their own network payment systems.<br>
+
+To address this issue, a proposed solution is to enable small businesses to download the Nacha file and upload their own files for ACH transactions. This would help reduce barriers to entry and participation in the ACH Network, making it more accessible to businesses of varying sizes.<br>
 
 ## Objectives
 - Create an Express application.
